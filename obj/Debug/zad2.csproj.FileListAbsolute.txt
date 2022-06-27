@@ -1,0 +1,16 @@
+C:\Users\pygs2\source\repos\zad2\zad2\obj\Debug\zad2.csprojAssemblyReference.cache
+C:\Users\pygs2\source\repos\zad2\zad2\obj\Debug\MainWindow.g.cs
+C:\Users\pygs2\source\repos\zad2\zad2\obj\Debug\App.g.cs
+C:\Users\pygs2\source\repos\zad2\zad2\obj\Debug\zad2_MarkupCompile.cache
+C:\Users\pygs2\source\repos\zad2\zad2\obj\Debug\zad2_MarkupCompile.lref
+C:\Users\pygs2\source\repos\zad2\zad2\bin\Debug\zad2.exe.config
+C:\Users\pygs2\source\repos\zad2\zad2\bin\Debug\zad2.exe
+C:\Users\pygs2\source\repos\zad2\zad2\bin\Debug\zad2.pdb
+C:\Users\pygs2\source\repos\zad2\zad2\obj\Debug\App.baml
+C:\Users\pygs2\source\repos\zad2\zad2\obj\Debug\MainWindow.baml
+C:\Users\pygs2\source\repos\zad2\zad2\obj\Debug\zad2.g.resources
+C:\Users\pygs2\source\repos\zad2\zad2\obj\Debug\zad2.Properties.Resources.resources
+C:\Users\pygs2\source\repos\zad2\zad2\obj\Debug\zad2.csproj.GenerateResource.cache
+C:\Users\pygs2\source\repos\zad2\zad2\obj\Debug\zad2.csproj.CoreCompileInputs.cache
+C:\Users\pygs2\source\repos\zad2\zad2\obj\Debug\zad2.exe
+C:\Users\pygs2\source\repos\zad2\zad2\obj\Debug\zad2.pdb
